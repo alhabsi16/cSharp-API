@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\bin\Debug\net6.0\cSharp-HttpRequests.exe
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\bin\Debug\net6.0\cSharp-HttpRequests.deps.json
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\bin\Debug\net6.0\cSharp-HttpRequests.runtimeconfig.json
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\bin\Debug\net6.0\cSharp-HttpRequests.dll
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\bin\Debug\net6.0\cSharp-HttpRequests.pdb
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\obj\Debug\net6.0\cSharp-HttpRequests.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\obj\Debug\net6.0\cSharp-HttpRequests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\obj\Debug\net6.0\cSharp-HttpRequests.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\obj\Debug\net6.0\cSharp-HttpRequests.AssemblyInfo.cs
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\obj\Debug\net6.0\cSharp-HttpRequests.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\obj\Debug\net6.0\cSharp-HttpRequests.dll
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\obj\Debug\net6.0\refint\cSharp-HttpRequests.dll
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\obj\Debug\net6.0\cSharp-HttpRequests.pdb
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\obj\Debug\net6.0\cSharp-HttpRequests.genruntimeconfig.cache
+C:\Users\TRA\source\repos\cSharp-HttpRequests\cSharp-HttpRequests\obj\Debug\net6.0\ref\cSharp-HttpRequests.dll
